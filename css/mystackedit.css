@@ -20,8 +20,13 @@ blockquote {
 .stackedit__toc a:active,
 .stackedit__toc a:focus,
 .stackedit__toc a:hover {
-	background-color: inherit;
-    border-radius: inherit;
+    border-radius: initial;
+}
+
+.stackedit__toc ul a:active,
+.stackedit__toc ul a:focus,
+.stackedit__toc ul a:hover {
+	background-color: initial;
 }
 
 .stackedit__toc ul ul {
