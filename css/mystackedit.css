@@ -12,7 +12,7 @@ blockquote {
 	border-width: 3px;
 }
 
-blockquote, dl, ol, p, pre, ul {
+p {
 	text-align: justify;
 }
 
