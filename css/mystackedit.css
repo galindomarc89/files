@@ -38,7 +38,6 @@ blockquote {
 }
 
 .stackedit__toc ul ul a:hover {
-    font-weight: 600;
-    border-left: 2px solid #ee6e73;
+    border-left: 3px solid #ee6e73;
     color: #000;
 }
