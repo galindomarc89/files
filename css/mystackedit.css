@@ -17,6 +17,13 @@ blockquote {
 	padding-left: 32px;
 }
 
+.stackedit__toc a:active,
+.stackedit__toc a:focus,
+.stackedit__toc a:hover {
+	background-color: inherit;
+    border-radius: inherit;
+}
+
 .stackedit__toc ul ul {
 	font-size: 1em;
 }
