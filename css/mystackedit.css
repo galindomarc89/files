@@ -1,6 +1,6 @@
 h2 {
-    color: #ee6e73;
-    margin-bottom: 0;
+	border-left: 5px solid #ee6e73;
+	padding: 0.5em 0 0.5em 1.5em;
     text-transform: uppercase;
 }
 
@@ -9,8 +9,11 @@ h2:after {
 }
 
 blockquote {
-	border-color: #ee6e73;
 	border-width: 3px;
+}
+
+blockquote, dl, ol, p, pre, ul {
+	text-align: justify;
 }
 
 .stackedit__left {
