@@ -38,6 +38,10 @@ p {
 	text-align: justify;
 }
 
+.stackedit__html {
+	    max-width: 860px;
+}
+
 .stackedit__toc {
 	padding-left: 32px;
 }
