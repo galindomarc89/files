@@ -8,14 +8,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {	
-    color: #97C2BB;
+	color: #97C2BB;
 	font-family: CaligraKids;
-    font-size: 3em;
-    font-weight: 300;
+	font-size: 3em;
+	font-weight: 300;
 }
 
 h2 {
-	    border-left: 5px solid #EB6691;
+    border-left: 5px solid #EB6691;
     font-family: CaligraKids;
     padding: 0.5em 0 0.5em 1.5em;
     text-transform: uppercase;
