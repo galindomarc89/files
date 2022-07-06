@@ -25,6 +25,11 @@ h2:after {
 	display: none;
 }
 
+h3 {
+    font-family: CaligraKids;
+    font-size: 2em;
+}
+
 blockquote {
 	border-width: 3px;
 }
