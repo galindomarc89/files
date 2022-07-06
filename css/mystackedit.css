@@ -1,33 +1,11 @@
-@font-face {
-    font-family: CaligraKids;
-    src:url("https://min.gitcdn.link/cdn/galindomarc89/files/main/fonts/kids.otf");
-}
-
-h1, h2, h3, h4, h5, h6 {
-    margin: 1.5em 0;
-}
-
-h1 {	
-	color: #97C2BB;
-	font-family: CaligraKids;
-	font-size: 3em;
-	font-weight: 300;
-}
-
 h2 {
-    border-left: 5px solid #EB6691;
-    font-family: CaligraKids;
-    padding: 0.5em 0 0.5em 1.5em;
+	border-left: 5px solid #ee6e73;
+	padding: 0.5em 0 0.5em 1.5em;
     text-transform: uppercase;
 }
 
 h2:after {
 	display: none;
-}
-
-h3 {
-    font-family: CaligraKids;
-    font-size: 2em;
 }
 
 blockquote {
@@ -36,10 +14,6 @@ blockquote {
 
 p {
 	text-align: justify;
-}
-
-.stackedit__html {
-	    max-width: 860px;
 }
 
 .stackedit__toc {
@@ -63,6 +37,6 @@ p {
 }
 
 .stackedit__toc ul ul a:hover {
-    border-left: 3px solid #EB6691;
+    border-left: 3px solid #ee6e73;
     color: #000;
 }
